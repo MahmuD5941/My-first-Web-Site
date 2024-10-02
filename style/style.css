@@ -1,0 +1,9 @@
+div{
+    background-color: blue;
+    margin: 2px solid orange;
+    width: 50%;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+}
